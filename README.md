@@ -20,7 +20,7 @@ Then, create a README.md file in that repository and paste this content in. Cust
 
 I'm a security engineer who loves understanding how things are made and how they break. 
 
-Tools I use everyday: Nuclei, Ffuf, Volatility, Nmap, Suricata, Snort, ELK, Docker, Kubernetes, GitHub Actions, Metasploit, Burp Suite
+Tools I use: Nuclei, Metasploit, Volatility, Nmap, Suricata, Snort, ELK, Docker, Kubernetes, Terraform, Burp Suite
 
 ## 🛠️ 
 
