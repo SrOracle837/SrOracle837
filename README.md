@@ -13,7 +13,7 @@ Then, create a README.md file in that repository and paste this content in. Cust
 </p> -->
 
 <h1>Hi, I'm Ayush 👋</h1>
-<h3>Security Engineer | Ex Product Security @ Yahoo | Security @ Carnegie Mellon</h3>
+<h3>Security Engineer @ Yahoo | Security @ Carnegie Mellon</h3>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F70A43&background=FFFFFF00&width=435&lines=All+Things+Security)](https://git.io/typing-svg)
